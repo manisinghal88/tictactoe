@@ -1,4 +1,4 @@
-# tictactoe
+# TicTacToe
 TicTacToe Game
 
 ## RUN 
